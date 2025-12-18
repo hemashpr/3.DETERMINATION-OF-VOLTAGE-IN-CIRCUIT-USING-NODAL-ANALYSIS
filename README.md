@@ -31,6 +31,14 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 
 
+**TABULATION:**
+
+
+<img width="818" height="465" alt="{C2BB3173-AD55-4313-88C4-DC7A61046D8C}" src="https://github.com/user-attachments/assets/70f2aadf-1dae-47f6-aefe-2d03f43d5535" />
+
+
+
+
  
 **PROCEDURE:**
 
