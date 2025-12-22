@@ -64,4 +64,8 @@ b)	The voltage V2 is 0.48	V.
 
 c)	The voltage V3 is 0.20	V.
 
+**MARKS SPLIT UP**
+![IMG-20251222-WA0002](https://github.com/user-attachments/assets/07a5f4f7-9a18-490c-a8b9-6de9da2a8113)
+
+
 
